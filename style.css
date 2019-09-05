@@ -1,0 +1,13 @@
+.bg-info {
+  background-color: gray!important;
+
+}
+body {
+  background: lightgray;
+}
+.text-white {
+  color: darkslategrey!important;
+}
+footer {
+  text-align: center
+}
